@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahaboddin
 - 👀 I’m interested in (social) Neuroscience and animal behaviour.
-- 🌱 I’m currently learning Psychophysics task and tracking software
+- 🌱 I’m currently learning Psychophysics tasks and animal tracking software
 - 📫 How to reach me : sh.zarei@ion.ac.cn,  Twitter: @ShZarei1
 
 <!---
