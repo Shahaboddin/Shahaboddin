@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shahaboddin
 - 👀 I’m interested in (social) Neuroscience and animal behaviour.
-- 🌱 I’m currently learning Psychophysics tasks and animal tracking software
-- 📫 How to reach me : sh.zarei@ion.ac.cn,  Twitter: @ShZarei1
+- 🌱 I’m working on Psychophysics tasks and animal tracking software
+- 📫 How to reach me : shzarei@nips.ac.jp
 
 <!---
 Shahaboddin/Shahaboddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
